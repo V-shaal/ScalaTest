@@ -1,4 +1,4 @@
-package com.exadatum.scalaTesting.flatspec
+package com.exadatum.scalaTesting.assertion
 
 import org.scalatest.FlatSpec
 
