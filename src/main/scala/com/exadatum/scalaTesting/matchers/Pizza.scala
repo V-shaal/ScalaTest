@@ -3,7 +3,7 @@ package com.exadatum.scalaTesting.matchers
 import scala.collection.mutable.ArrayBuffer
 
 /**
-  * Created by tkmafag on 8/6/17.
+  * Created by vishal on 8/6/17.
   */
 case class Topping(name: String){
   require(name!=null,"No toppings added")

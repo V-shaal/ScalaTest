@@ -5,7 +5,7 @@ import org.scalatest.{BeforeAndAfter, FlatSpec}
 import scala.collection.mutable.ListBuffer
 
 /**
-  * Created by tkmafag on 8/6/17.
+  * Created by vishal on 8/6/17.
   */
 class ExampleSpec extends FlatSpec with BeforeAndAfter {
   val builder = new StringBuilder

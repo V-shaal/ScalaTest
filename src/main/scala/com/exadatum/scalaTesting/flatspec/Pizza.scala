@@ -3,7 +3,7 @@ package com.exadatum.scalaTesting.flatspec
 import scala.collection.mutable.ArrayBuffer
 
 /**
-  * Created by tkmafag on 8/5/17.
+  * Created by Vishal on 8/5/17.
   */
 
 case class Topping(name: String){
